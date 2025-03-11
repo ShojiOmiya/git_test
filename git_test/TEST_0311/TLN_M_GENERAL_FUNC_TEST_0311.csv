@@ -1,0 +1,5 @@
+"REPOSITORY_NM","REPOSITORY_NO","FUNC_ID","FUNC_NM","APP_KBN","BG_L","BG_M","BG_S","ADMIN_ID","FUNC_OUTLINE","NOTE","BODY_SQL","TITLE_SQL","CREATED_DATE","CREATED_BY","CREATED_PRG_NM","UPDATED_DATE","UPDATED_BY","UPDATED_PRG_NM"
+"TEST_0311","0","SAMPLE_MST_ITEM_CARD_MAINTE_0311","サンプル商品単票メンテナンス_0311","STD","2","","","","チュートリアルで作成する画面と同じ内容になります。
+チュートリアルで作ってみて何かわからないことがある場合は当画面で確認してみてください。","構築操作に慣れたら削除して構いません。","","","","","","","",""
+"TEST_0311","0","SAMPLE_MST_ITEM_CARD_MAINTE_0311_2","サンプル商品単票メンテナンス_0311_2","STD","2","","","","チュートリアルで作成する画面と同じ内容になります。
+チュートリアルで作ってみて何かわからないことがある場合は当画面で確認してみてください。","構築操作に慣れたら削除して構いません。","","","","","","","",""
